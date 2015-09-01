@@ -156,6 +156,8 @@
 		7C43530C1A38BF6200AAF5D8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Jordan Williams";
 				TargetAttributes = {
@@ -405,6 +407,7 @@
 				7C4353351A38BF6200AAF5D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C4353361A38BF6200AAF5D8 /* Build configuration list for PBXNativeTarget "how many fingersTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				7C4353381A38BF6200AAF5D8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
